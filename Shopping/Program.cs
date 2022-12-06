@@ -13,3 +13,4 @@ Console.WriteLine("Mascarpone");
 Console.WriteLine("Eier");
 Console.WriteLine("Kaffee");
 Console.WriteLine("Biskotten");
+Console.WriteLine("Zucker");
